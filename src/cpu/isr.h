@@ -1,9 +1,3 @@
-/* DESCRIPTION: E93 Interrupt Service Routine Header File
- * AUTHOR: Erdem Ersoy (eersoy93)
- * COPYRIGHT: Copyright (c) 2022-2024 Erdem Ersoy (eersoy93).
- * LICENSE: Licensed with MIT License. See LICENSE file for details.
- */
-
 #ifndef ISR_H
 #define ISR_H
 
