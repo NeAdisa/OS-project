@@ -1,9 +1,3 @@
-/* DESCRIPTION: E93 Screen Color Constants Header File
- * AUTHOR: Erdem Ersoy (eersoy93)
- * COPYRIGHT: Copyright (c) 2023-2024 Erdem Ersoy (eersoy93).
- * LICENSE: Licensed with MIT License. See LICENSE file for details.
- */
-
 #ifndef SCREEN_COLORS_H
 #define SCREEN_COLORS_H
 
