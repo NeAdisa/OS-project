@@ -1,9 +1,3 @@
-/* DESCRIPTION: E93 Port Driver Source File
- * AUTHOR: Erdem Ersoy (eersoy93)
- * COPYRIGHT: Copyright (c) 2022-2024 Erdem Ersoy (eersoy93).
- * LICENSE: Licensed with MIT License. See LICENSE file for details.
- */
-
 #include "ports.h"
 
 // Read byte from port
