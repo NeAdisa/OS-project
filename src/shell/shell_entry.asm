@@ -1,8 +1,3 @@
-; DESCRIPTION: E93 Shell Entry Assembly File
-; AUTHOR: Erdem Ersoy (eersoy93)
-; COPYRIGHT: Copyright (c) 2024 Erdem Ersoy (eersoy93).
-; LICENSE: Licensed with MIT License. See LICENSE file for details.
-
 global shell_entry
 
 MAGIC_NUMBER equ 0x1BADB002
